@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30899" started-at="2019-01-18T11:05:32Z" finished-at="2019-01-18T11:06:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30899" started-at="2019-01-18T11:05:32Z" finished-at="2019-01-18T11:06:03Z">
+      <class name="core.IIBClaim">
+        <test-method status="PASS" signature="setup()[pri:0, instance:core.IIBClaim@6a41eaa2]" name="setup" is-config="true" duration-ms="6135" started-at="2019-01-18T11:05:32Z" finished-at="2019-01-18T11:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginIIB()[pri:0, instance:core.IIBClaim@6a41eaa2]" name="loginIIB" duration-ms="20923" started-at="2019-01-18T11:05:38Z" finished-at="2019-01-18T11:05:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIIB -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:core.IIBClaim@6a41eaa2]" name="teardown" is-config="true" duration-ms="3813" started-at="2019-01-18T11:05:59Z" finished-at="2019-01-18T11:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- core.IIBClaim -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
